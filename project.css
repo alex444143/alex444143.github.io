@@ -1,0 +1,314 @@
+#button {
+   
+/*   
+    background-color: grey;
+    padding: 10px;
+    border: 1px solid;
+    width: 100px;
+    text-decoration: center;
+    display: inline-block;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+*/
+    background-image: url(http://cs636618.vk.me/v636618530/6f8/p8Vg6sGjQ8I.jpg);
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    display: inline-block;
+    width: 90px;
+    position: fixed;
+    left: 210px;
+    top: 30px;
+    font-size: 14px;
+    color: white;
+}
+
+#button:hover {
+    color: blue;
+}
+html {
+    color: white;
+    border: 2px;
+    cursor:help;
+}
+body {
+	margin:0;
+	padding:0;
+	font-family:arial;
+	font-size:14px;
+	color:#5a5a5a;
+	background-color:#fff;
+}
+div, h1, h2, h3, h4, p, form, label, input, textarea, img, span {
+	margin:0;
+	padding:0;
+}
+#button2 {
+    background-image: url(http://cs636618.vk.me/v636618530/6ff/b6XFqOOTe0Q.jpg);
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    display: inline-block;
+    width: 90px;
+    position: fixed;
+    left: 320px;
+    top: 30px;
+    font-size: 14px;
+    color: white;
+}
+
+#button2:hover {
+    color: blue;
+}
+#button3 {
+    background-image: url(http://cs636618.vk.me/v636618530/6ff/b6XFqOOTe0Q.jpg);
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    display: inline-block;
+    width: 90px;
+    position: fixed;
+    left: 430px;
+    top: 30px;
+    font-size: 14px;
+    color: white;
+}
+
+#button3:hover {
+    color: blue;
+}
+
+#button4 {
+    background-image: url(http://cs636618.vk.me/v636618530/6ff/b6XFqOOTe0Q.jpg);
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    display: inline-block;
+    width: 90px;
+    position: fixed;
+    left: 540px;
+    top: 30px;
+    font-size: 14px;
+    color: white;
+}
+
+#button4:hover {
+    color: blue;
+}
+
+#button5 {
+    background-image: url(http://cs636618.vk.me/v636618530/6ff/b6XFqOOTe0Q.jpg);
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    display: inline-block;
+    width: 90px;
+    position: fixed;
+    left: 650px;
+    top: 30px;
+    font-size: 14px;
+    color: white;
+}
+
+#button5:hover {
+    color: blue;
+}
+
+#img1 {
+    display: inline-block;
+    position: fixed;
+    left: 10px;
+    top: 75px;
+    z-index: 1;
+}
+
+#text1 {
+    font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:18px;
+	color:#454545;
+	text-transform:uppercase;
+	padding:0 0 15px 0;
+    position: fixed;
+    left: 270px;
+    top: 360px;
+    z-index: 5;
+}
+
+#text2 {
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:12px;
+	color:#013043;
+	font-style:italic;
+	padding:0 0 10px 0;
+	line-height:16px;
+    position: fixed;
+    left: 50px;
+    top: 190px;
+    z-index: 5;
+    display: block;
+    width: 400px;
+}
+
+#button6 {
+    background-image: url(http://cs630220.vk.me/v630220530/23657/yWMPpJ_wdkU.jpg);
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    display: inline-block;
+    width: 40px;
+    position: fixed;
+    left: 50px;
+    top: 273px;
+    font-size: 14px;
+    color: white;
+    z-index: 10;
+}
+
+#image1 {
+    background-image: url(http://cs630220.vk.me/v630220530/23675/ekrpJoWdP40.jpg);
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    text-align: center;
+    width: 226px;
+    padding: 48px;
+    display: inline-block;
+    position: fixed;
+    left: 11px;
+    top: 79px;
+    z-index: 20;
+}
+
+#image2 {
+    background-image: url(http://cs636618.vk.me/v636618530/722/Yb0GJDzs8gc.jpg);
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    text-align: center;
+    padding: 30px;
+    display: inline-block;
+    position: fixed;
+    left: 270px;
+    top: 390px;
+    z-index: 30;
+}
+
+#text3 {
+    font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color: grey;
+	padding:0 0 10px 0;
+	line-height:16px;
+    position: fixed;
+    left: 325px;
+    top: 410px;
+    z-index: 50;
+    display: block;
+    width: 140px;
+}
+
+#text4 {
+    font-family: 'Oswald', sans-serif;
+	font-size:18px;
+	color:#454545;
+	text-transform:uppercase;
+	padding:0 0 15px 0;
+    position: fixed;
+    left: 325px;
+    top: 390px;
+    z-index: 50;
+    display: block;
+    width: 140px;
+}
+
+#image3 {
+    background-image: url(http://cs636618.vk.me/v636618530/70d/xtVLGut-_50.jpg);
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    text-align: center;
+    padding: 32px;
+    width: px;
+    display: inline-block;
+    position: fixed;
+    left: 450px;
+    top: 390px;
+    z-index: 30;
+}
+
+#text5 {
+    font-family: 'Oswald', sans-serif;
+	font-size:18px;
+	color:#454545;
+	text-transform:uppercase;
+	padding:0 0 15px 0;
+    position: fixed;
+    left: 515px;
+    top: 390px;
+    z-index: 50;
+    display: block;
+    width: 140px;
+}
+
+#text6 {
+    font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color: grey;
+	padding:0 0 10px 0;
+	line-height:16px;
+    position: fixed;
+    left: 515px;
+    top: 410px;
+    z-index: 50;
+    display: block;
+    width: 140px;
+}
+
+#link1 {
+    text-align: center;
+    padding: 32px;
+    width: px;
+    display: inline-block;
+    position: fixed;
+    left: 484px;
+    top: 430px;
+    z-index: 30;
+}
+
+#link2 {
+    text-align: center;
+    padding: 32px;
+    width: px;
+    display: inline-block;
+    position: fixed;
+    left: 293px;
+    top: 430px;
+    z-index: 30;
+}
+
+#image7 {
+    background-image: url(http://cs631225.vk.me/v631225530/21211/8kWtZwmL1g0.jpg);
+    text-align: center;
+    padding: 78px;
+    width: 100px;
+    display: inline-block;
+    position: fixed;
+    left: 10px;
+    top: 360px;
+    z-index: 80;
+}
+
+#image8 {
+    background-image: url(http://cs631225.vk.me/v631225530/21218/3YjRsS3sCAY.jpg);
+    text-align: center;
+    padding: 48px;
+    width: 190px;
+    display: inline-block;
+    position: fixed;
+    left: 10px;
+    top: 460px;
+    z-index: 80;
+}
