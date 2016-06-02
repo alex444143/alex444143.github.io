@@ -396,3 +396,16 @@ body {
     top: 90px;
     z-index: 0;
 }
+#map {
+    position: fixed;
+    left:1280px;
+    top: 100px;
+    z-index: 50;
+}
+#colour {
+    position: fixed;
+    left:1500px;
+    top: 580px;
+    z-index: 50;
+}
+
