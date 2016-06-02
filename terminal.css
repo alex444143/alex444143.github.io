@@ -346,3 +346,53 @@ body {
     top: 620px;
     z-index: 50;
 }
+#SkypeButton_Call_alex444143_1 {
+    position: fixed;
+    left:1320px;
+    top: 550px;
+    z-index: 50;
+
+}
+#image10 {
+    display: inline-block;
+    position: fixed;
+    left: 200px;
+    top: 190px;
+    z-index: 0;
+}
+#image11 {
+    display: inline-block;
+    position: fixed;
+    left: 790px;
+    top: 190px;
+    z-index: 0;
+}
+#image12 {
+    display: inline-block;
+    position: fixed;
+    left: 200px;
+    top: 525px;
+    z-index: 0;
+}
+#image13 {
+    display: inline-block;
+    position: fixed;
+    left: 810px;
+    top: 525px;
+    z-index: 0;
+}
+#image14 {
+    background-image: url(http://cache4.asset-cache.net/gc/82464159-track-field-2008-summer-olympics-aerial-view-gettyimages.jpg?v=1&c=IWSAsset&k=2&d=GkZZ8bf5zL1ZiijUmxa7Qbyg6tg7TQ9sLkKJnbf6Jqdk5uNtFspH5xcJc0g0Lpq9xPP1pe9fu0bAaOQ1YtqDJe5csfVJR7VsbgjZzXu1zNo%3D);
+    border-top-right-radius: 18px;
+    border-bottom-left-radius: 18px;
+    border-top-left-radius: 18px;
+    border-bottom-right-raduis: 18px;
+    text-align: center;
+    width: 846px;
+    padding: 48px;
+    display: inline-block;
+    position: fixed;
+    left: 330px;
+    top: 90px;
+    z-index: 0;
+}
